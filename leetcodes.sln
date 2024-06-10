@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "260. Single Number III", "2
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "409. Longest Palindrome", "409. Longest Palindrome\409. Longest Palindrome.vcxproj", "{9EA4E0F5-89BD-4512-93AC-FA0C4D627BB1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1051. Height Checker", "1051. Height Checker\1051. Height Checker.vcxproj", "{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{9EA4E0F5-89BD-4512-93AC-FA0C4D627BB1}.Release|x64.Build.0 = Release|x64
 		{9EA4E0F5-89BD-4512-93AC-FA0C4D627BB1}.Release|x86.ActiveCfg = Release|Win32
 		{9EA4E0F5-89BD-4512-93AC-FA0C4D627BB1}.Release|x86.Build.0 = Release|Win32
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Debug|x64.ActiveCfg = Debug|x64
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Debug|x64.Build.0 = Debug|x64
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Debug|x86.ActiveCfg = Debug|Win32
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Debug|x86.Build.0 = Debug|Win32
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Release|x64.ActiveCfg = Release|x64
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Release|x64.Build.0 = Release|x64
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Release|x86.ActiveCfg = Release|Win32
+		{DC83D778-7D3D-44DD-8D34-989A15AE9AA2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
