@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("2181. Merge Nodes in Between Zeros")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("2058. Find the Minimum and Maximum Number of Nodes Between Critical Points")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6e69c07fd9f33d1254cbda679aa3549ca401a3e")]
-[assembly: System.Reflection.AssemblyProductAttribute("2181. Merge Nodes in Between Zeros")]
-[assembly: System.Reflection.AssemblyTitleAttribute("2181. Merge Nodes in Between Zeros")]
+[assembly: System.Reflection.AssemblyProductAttribute("2058. Find the Minimum and Maximum Number of Nodes Between Critical Points")]
+[assembly: System.Reflection.AssemblyTitleAttribute("2058. Find the Minimum and Maximum Number of Nodes Between Critical Points")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
