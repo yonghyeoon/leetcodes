@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2181. Merge Nodes in Between Zeros", "2181. Merge Nodes in Between Zeros\2181. Merge Nodes in Between Zeros.csproj", "{D8B54E8D-4C0A-4F9B-83FA-C8E5BD28787D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points", "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points\2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.csproj", "{E1A5B304-C5BA-48EA-8F5F-4A1EB3FF5E2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points", "2058. Find the Minimum and Maximum Number of Nodes Between Critical Points\2058. Find the Minimum and Maximum Number of Nodes Between Critical Points.csproj", "{E1A5B304-C5BA-48EA-8F5F-4A1EB3FF5E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1598. Crawler Log Folder", "1598. Crawler Log Folder\1598. Crawler Log Folder.csproj", "{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,18 @@ Global
 		{E1A5B304-C5BA-48EA-8F5F-4A1EB3FF5E2B}.Release|x64.Build.0 = Release|Any CPU
 		{E1A5B304-C5BA-48EA-8F5F-4A1EB3FF5E2B}.Release|x86.ActiveCfg = Release|Any CPU
 		{E1A5B304-C5BA-48EA-8F5F-4A1EB3FF5E2B}.Release|x86.Build.0 = Release|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Debug|x64.Build.0 = Debug|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Debug|x86.Build.0 = Debug|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Release|x64.ActiveCfg = Release|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Release|x64.Build.0 = Release|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Release|x86.ActiveCfg = Release|Any CPU
+		{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

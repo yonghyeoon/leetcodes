@@ -1,0 +1,15 @@
+D:\Repos\leetcodes\1598. Crawler Log Folder\bin\Debug\net8.0\1598. Crawler Log Folder.exe
+D:\Repos\leetcodes\1598. Crawler Log Folder\bin\Debug\net8.0\1598. Crawler Log Folder.deps.json
+D:\Repos\leetcodes\1598. Crawler Log Folder\bin\Debug\net8.0\1598. Crawler Log Folder.runtimeconfig.json
+D:\Repos\leetcodes\1598. Crawler Log Folder\bin\Debug\net8.0\1598. Crawler Log Folder.dll
+D:\Repos\leetcodes\1598. Crawler Log Folder\bin\Debug\net8.0\1598. Crawler Log Folder.pdb
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.AssemblyInfoInputs.cache
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.AssemblyInfo.cs
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.csproj.CoreCompileInputs.cache
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.sourcelink.json
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.dll
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\refint\1598. Crawler Log Folder.dll
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.pdb
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\1598. Crawler Log Folder.genruntimeconfig.cache
+D:\Repos\leetcodes\1598. Crawler Log Folder\obj\Debug\net8.0\ref\1598. Crawler Log Folder.dll

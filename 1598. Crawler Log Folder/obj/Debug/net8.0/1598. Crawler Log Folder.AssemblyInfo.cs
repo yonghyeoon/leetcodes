@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("2058. Find the Minimum and Maximum Number of Nodes Between Critical Points")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("1598. Crawler Log Folder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043a21488b6b46bcc179edd58a77701b4d814261")]
-[assembly: System.Reflection.AssemblyProductAttribute("2058. Find the Minimum and Maximum Number of Nodes Between Critical Points")]
-[assembly: System.Reflection.AssemblyTitleAttribute("2058. Find the Minimum and Maximum Number of Nodes Between Critical Points")]
+[assembly: System.Reflection.AssemblyProductAttribute("1598. Crawler Log Folder")]
+[assembly: System.Reflection.AssemblyTitleAttribute("1598. Crawler Log Folder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
