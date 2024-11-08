@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2181. Merge Nodes in Between Zeros")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+043a21488b6b46bcc179edd58a77701b4d814261")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d814d5e6f6dafcb45212814cd45c3b3b031748d")]
 [assembly: System.Reflection.AssemblyProductAttribute("2181. Merge Nodes in Between Zeros")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2181. Merge Nodes in Between Zeros")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
