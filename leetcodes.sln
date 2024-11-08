@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2058. Find the Minimum and 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1598. Crawler Log Folder", "1598. Crawler Log Folder\1598. Crawler Log Folder.csproj", "{9F0AAA75-A7E5-4FC8-BEA3-03B229AEED27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1190. Reverse Substrings Between Each Pair of Parentheses", "1190. Reverse Substrings Between Each Pair of Parentheses\1190. Reverse Substrings Between Each Pair of Parentheses.csproj", "{97FB59DD-7DC4-4B14-8B06-EB1E9398969D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1190. Reverse Substrings Between Each Pair of Parentheses", "1190. Reverse Substrings Between Each Pair of Parentheses\1190. Reverse Substrings Between Each Pair of Parentheses.csproj", "{97FB59DD-7DC4-4B14-8B06-EB1E9398969D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1829. Maximum XOR for Each Query", "1829. Maximum XOR for Each Query\1829. Maximum XOR for Each Query.csproj", "{EB20066E-57B9-4795-B3C8-C2797AE4875C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,18 @@ Global
 		{97FB59DD-7DC4-4B14-8B06-EB1E9398969D}.Release|x64.Build.0 = Release|Any CPU
 		{97FB59DD-7DC4-4B14-8B06-EB1E9398969D}.Release|x86.ActiveCfg = Release|Any CPU
 		{97FB59DD-7DC4-4B14-8B06-EB1E9398969D}.Release|x86.Build.0 = Release|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Debug|x64.Build.0 = Debug|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Debug|x86.Build.0 = Debug|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x64.ActiveCfg = Release|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x64.Build.0 = Release|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x86.ActiveCfg = Release|Any CPU
+		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

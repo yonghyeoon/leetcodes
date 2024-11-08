@@ -1,6 +1,4 @@
 .vs/
 x64/
-bin/
-obj/
-*.AssemblyInfo.cs
-*.AssemblyInfoInputs.cache
+/**/bin/
+**/obj/
