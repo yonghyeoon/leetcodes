@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1598. Crawler Log Folder", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1190. Reverse Substrings Between Each Pair of Parentheses", "1190. Reverse Substrings Between Each Pair of Parentheses\1190. Reverse Substrings Between Each Pair of Parentheses.csproj", "{97FB59DD-7DC4-4B14-8B06-EB1E9398969D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1829. Maximum XOR for Each Query", "1829. Maximum XOR for Each Query\1829. Maximum XOR for Each Query.csproj", "{EB20066E-57B9-4795-B3C8-C2797AE4875C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1829. Maximum XOR for Each Query", "1829. Maximum XOR for Each Query\1829. Maximum XOR for Each Query.csproj", "{EB20066E-57B9-4795-B3C8-C2797AE4875C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1213. Intersection of Three Sorted Arrays", "1213. Intersection of Three Sorted Arrays\1213. Intersection of Three Sorted Arrays.csproj", "{07FA6BB9-CE17-4E05-A054-64A6DF646C71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +85,18 @@ Global
 		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x64.Build.0 = Release|Any CPU
 		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x86.ActiveCfg = Release|Any CPU
 		{EB20066E-57B9-4795-B3C8-C2797AE4875C}.Release|x86.Build.0 = Release|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Debug|x64.Build.0 = Debug|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Debug|x86.Build.0 = Debug|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Release|x64.ActiveCfg = Release|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Release|x64.Build.0 = Release|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Release|x86.ActiveCfg = Release|Any CPU
+		{07FA6BB9-CE17-4E05-A054-64A6DF646C71}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
