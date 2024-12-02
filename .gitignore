@@ -3,3 +3,4 @@ x64/
 /**/bin/
 **/obj/
 venv/
+VisualStudioCode/Python/pyproject.toml
