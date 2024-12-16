@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2109. Adding Spaces to a St
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2558. Take Gifts From the Richest Pile", "2558. Take Gifts From the Richest Pile\2558. Take Gifts From the Richest Pile.vcxproj", "{6AA82186-44C1-48A4-8711-D0079EBAFB0A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3264. Final Array State After K Multiplication Operations I", "3264. Final Array State After K Multiplication Operations I\3264. Final Array State After K Multiplication Operations I.vcxproj", "{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{6AA82186-44C1-48A4-8711-D0079EBAFB0A}.Release|x64.Build.0 = Release|x64
 		{6AA82186-44C1-48A4-8711-D0079EBAFB0A}.Release|x86.ActiveCfg = Release|Win32
 		{6AA82186-44C1-48A4-8711-D0079EBAFB0A}.Release|x86.Build.0 = Release|Win32
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Debug|x64.ActiveCfg = Debug|x64
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Debug|x64.Build.0 = Debug|x64
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Debug|x86.Build.0 = Debug|Win32
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x64.ActiveCfg = Release|x64
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x64.Build.0 = Release|x64
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x86.ActiveCfg = Release|Win32
+		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
