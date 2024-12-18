@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2558. Take Gifts From the R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3264. Final Array State After K Multiplication Operations I", "3264. Final Array State After K Multiplication Operations I\3264. Final Array State After K Multiplication Operations I.vcxproj", "{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1475. Final Prices With a Special Discount in a Shop", "1475. Final Prices With a Special Discount in a Shop\1475. Final Prices With a Special Discount in a Shop.vcxproj", "{0C99AF95-484B-4922-9546-0ED987183DD4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x64.Build.0 = Release|x64
 		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x86.ActiveCfg = Release|Win32
 		{EFDBFFC4-C36A-4CA3-9BC2-509A6198C5DF}.Release|x86.Build.0 = Release|Win32
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Debug|x64.ActiveCfg = Debug|x64
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Debug|x64.Build.0 = Debug|x64
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Debug|x86.Build.0 = Debug|Win32
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Release|x64.ActiveCfg = Release|x64
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Release|x64.Build.0 = Release|x64
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Release|x86.ActiveCfg = Release|Win32
+		{0C99AF95-484B-4922-9546-0ED987183DD4}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
